@@ -1,0 +1,8 @@
+<svg viewBox="0 0 640 160" xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="118" font-family="Manrope, 'Arial', sans-serif" font-weight="800" font-size="110" letter-spacing="-2" fill="#F5F6F8">PONCO</text>
+  <g transform="translate(476, 8) scale(0.58)">
+    <line x1="190" y1="62" x2="62" y2="190" stroke="#F5F6F8" stroke-width="38" stroke-linecap="round" />
+    <line x1="62" y1="62" x2="190" y2="190" stroke="#F5F6F8" stroke-width="38" stroke-linecap="round" />
+    <circle cx="202" cy="50" r="17" fill="#FFB020" />
+  </g>
+</svg>

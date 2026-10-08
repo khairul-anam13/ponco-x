@@ -1,0 +1,62 @@
+{
+  "businessName": "All in Task",
+  "assistantName": "Kak Tami",
+  "tagline": "Teman belajar dan konsultasi tugas",
+  "about": "All in Task adalah layanan bimbingan belajar dan konsultasi tugas/skripsi secara online. Kami mendampingi kamu memahami materi, menyusun kerangka tugas, berlatih soal, dan mengoreksi pekerjaanmu sendiri — bukan mengerjakan lalu menyerahkan tugas atas nama kamu.",
+  "hours": "Senin - Sabtu, 09:00 - 21:00 WIB",
+  "contact": {
+    "whatsapp": "6281234567890",
+    "instagram": "@allintask.id",
+    "address": "Layanan online, bisa akses dari mana saja"
+  },
+  "promo": [
+    {
+      "title": "Promo Sesi Pertama",
+      "desc": "Diskon 20% untuk sesi konsultasi atau bimbingan pertama. Ketik PROMO di chat untuk klaim."
+    }
+  ],
+  "products": [
+    {
+      "name": "Bimbingan Belajar Per Mapel",
+      "price": "Rp 50.000 / sesi (60 menit)",
+      "desc": "Bimbingan 1-on-1 online untuk mapel SD sampai kuliah, jadwal fleksibel, bisa pilih tutor sesuai topik."
+    },
+    {
+      "name": "Konsultasi Tugas & Skripsi",
+      "price": "Rp 75.000 / sesi (60 menit)",
+      "desc": "Diskusi kerangka tugas/skripsi, review draft, arahan revisi dan metodologi. Kamu tetap yang mengerjakan dan menyerahkan tugasnya."
+    },
+    {
+      "name": "Proofreading & Review Naskah",
+      "price": "Rp 40.000 / dokumen (maks 15 halaman)",
+      "desc": "Cek tata bahasa, struktur, dan sitasi, plus catatan perbaikan tertulis. Naskah tetap tulisan asli kamu, kami tidak menulis ulang jadi karya kami."
+    },
+    {
+      "name": "Kelas Persiapan Ujian / Try Out",
+      "price": "Rp 35.000 / sesi",
+      "desc": "Latihan soal plus pembahasan untuk persiapan ujian sekolah, UTBK, atau ujian semester."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Apakah kalian mengerjakan tugas untuk saya?",
+      "a": "Tidak. Kami mendampingi, menjelaskan, dan mengoreksi, supaya tugasnya tetap hasil kerja kamu sendiri dan tidak melanggar aturan kampus/sekolah."
+    },
+    {
+      "q": "Bagaimana cara mulai konsultasi atau bimbingan?",
+      "a": "Chat admin, ceritakan mapel atau topik tugasnya, nanti dijadwalkan sesi sesuai waktu yang kamu punya."
+    },
+    {
+      "q": "Sesinya online atau offline?",
+      "a": "Default online lewat video call. Untuk sesi tatap muka, nego lokasi dulu dengan admin."
+    },
+    {
+      "q": "Metode pembayaran?",
+      "a": "Transfer bank atau e-wallet, info rekening dikirim admin setelah sesi dikonfirmasi."
+    }
+  ],
+  "catatan": [
+    "Semua layanan All in Task bersifat pendampingan dan edukasi (bimbingan, konsultasi, review, latihan soal) — bukan joki atau pembuatan tugas/skripsi untuk disubmit atas nama klien.",
+    "Kalau ada yang minta tugasnya 'dikerjakan penuh dan tinggal dikumpulkan', tolak dengan sopan dan tawarkan paket konsultasi/bimbingan sebagai gantinya."
+  ]
+}
